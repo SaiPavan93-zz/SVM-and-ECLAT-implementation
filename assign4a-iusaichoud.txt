@@ -1,0 +1,21 @@
+The C value is 0.1
+1 FOLD
+The C value is 0.6
+2 FOLD
+The C value is 0.1
+3 FOLD
+0.9279279279279279
+0.9722222222222222
+0.9629629629629629
+mean is : 0.9543710377043709 
+ std is : 0.019076373021695552
+The C value is 0.1
+the value of G is 0.1
+1 FOLD
+The C value is 0.6
+the value of G is 0.2
+2 FOLD
+The C value is 0.1
+the value of G is 0.1
+3 FOLD
+mean gaussian : 0.9085752419085752 std gaussian 0.02882214699070328
